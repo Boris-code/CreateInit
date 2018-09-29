@@ -40,11 +40,11 @@ platforms. To access the directory use:
 - Start typing code as usual. When you need create `__init__.py`, You can use bellow shortcut key.
 
     For Mac OS X:
-    - `command + i`
+    - `command + alt + i`
         
     For Linux:
-    - `ctrl + i`
+    - `ctrl + alt + i`
             
     For Windows:
-    - `ctrl + i`
+    - `ctrl + alt +i`
     
