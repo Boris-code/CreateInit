@@ -1,3 +1,3 @@
 [
-    {"keys": ["ctrl+i"], "command": "create_init"}
+    {"keys": ["ctrl+alt+i"], "command": "create_init"}
 ]
